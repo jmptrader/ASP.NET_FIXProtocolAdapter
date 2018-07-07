@@ -1,2 +1,6 @@
 # ASP.NET_FIXProtocolAdapter
-Use FIX protokol with GDAX exchange
+## Technology
+### .NET Framework
+### C#
+### FIX Protocol
+### GDAX Exchange
