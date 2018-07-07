@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<license version="1.0">
+  <type>trial</type>
+  <customer>
+    <name>Evaluator</name>
+  </customer>
+  <period>
+    <since>2018-02-28</since>
+    <till>2018-05-30</till>
+  </period>
+  <products>
+    <product id="2" name="OnixS FIX Engine for .NET" />
+  </products>
+  <checksum>F4BCD1E54711E5673A59D5F88EDCD0E3</checksum>
+</license>

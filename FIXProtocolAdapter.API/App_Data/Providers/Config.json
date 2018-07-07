@@ -1,0 +1,16 @@
+﻿{
+  "Providers": [
+    {
+      "Name": "GDAX",
+      "Protocol": "FIX",
+      "Passphrase": "lz40u4j2vgb",
+      "APIKey": "309a1a951c87c244e31075c94a808465",
+      "APISecret": "Q2QSacSTMbTRobxORTXc/YxsVibJ9UnnZvhcXYzaR9G7TR3FlYmXnJNHqC9RpuXtwvVpAFRyrPQCmkDAUygt3w==",
+      "SslCertificateFile": "sandbox.gdax.pem",
+      "FIXServerUrl": "fix-public.sandbox.gdax.com",
+      "FIXServerPort": 4198,
+      "FIXServerAcceptPort": 4197,
+      "HeartBtInt": 30 
+    }
+  ]
+}
